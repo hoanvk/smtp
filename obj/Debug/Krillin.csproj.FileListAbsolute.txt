@@ -1,0 +1,11 @@
+E:\Projects\BallZ\Krillin\bin\Debug\Krillin.exe.config
+E:\Projects\BallZ\Krillin\bin\Debug\Krillin.exe
+E:\Projects\BallZ\Krillin\bin\Debug\Krillin.pdb
+E:\Projects\BallZ\Krillin\bin\Debug\log4net.dll
+E:\Projects\BallZ\Krillin\bin\Debug\Oracle.DataAccess.dll
+E:\Projects\BallZ\Krillin\obj\Debug\Krillin.csprojResolveAssemblyReference.cache
+E:\Projects\BallZ\Krillin\obj\Debug\Krillin.Properties.Resources.resources
+E:\Projects\BallZ\Krillin\obj\Debug\Krillin.SendHtml.resources
+E:\Projects\BallZ\Krillin\obj\Debug\Krillin.csproj.GenerateResource.Cache
+E:\Projects\BallZ\Krillin\obj\Debug\Krillin.exe
+E:\Projects\BallZ\Krillin\obj\Debug\Krillin.pdb
